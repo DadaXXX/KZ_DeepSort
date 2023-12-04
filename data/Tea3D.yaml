@@ -1,0 +1,15 @@
+# YOLOv5 🚀 by Ultralytics, AGPL-3.0 license
+# COCO 2017 dataset http://cocodataset.org by Microsoft
+# Example usage: python train.py --data coco.yaml
+
+
+# Train/val/test sets as 1) dir: path/to/imgs, 2) file: path/to/imgs.txt, or 3) list: [path/to/imgs1, path/to/imgs2, ..]
+# path: ../datasets/MT3D/fall  # dataset root dir
+path: 'C:\\data\\Tea\\Tea3D_yield_estimation\\Tea_Counter\\datasets\\MT3D\\fall'
+train: train.txt  # train images 
+val: val.txt  # val images 
+test: test.txt  # 2
+
+# Classes
+names:
+  0: Tea
