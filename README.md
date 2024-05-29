@@ -54,3 +54,6 @@ output = 'result.mp4' # 保存图像
 
 ## 8. Citation
 if this work is helpful to you,Please note the source.
+```text
+https://github.com/DadaXXX/KZ_DeepSort/blob/main/README.md
+```
