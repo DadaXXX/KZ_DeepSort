@@ -51,3 +51,6 @@ output = 'result.mp4' # 保存图像
 
 ## 7. 问题
 常见问题可以咨询在github，有特殊问题可以咨询hpu2xld@gmail.com
+
+## 8. Citation
+if this work is helpful to you,Please note the source.
